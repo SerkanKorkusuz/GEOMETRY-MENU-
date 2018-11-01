@@ -1,2 +1,2 @@
 # GEOMETRY-MENU-
-A Basic Computations of Some Geometric Shapes
+A Bunch of Codes for Basic Computations of Some Geometric Shapes
