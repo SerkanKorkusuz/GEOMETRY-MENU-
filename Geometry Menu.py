@@ -1,3 +1,5 @@
+author = "serkan korkusuz"
+
 from math import sqrt, fabs, pi
 
 print("""*********************
